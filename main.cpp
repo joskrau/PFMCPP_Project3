@@ -53,59 +53,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Amount of Ram
+    2)Amount of Storage
+    3) os version
+    4)year of creation
+    5)manufacturer
 3 things it can do:
-    1)
-    2)
-    3)
+    1)turn on
+    2)run software
+    3)play music
  */
 
 /*
-Thing 2)
+Thing 2) House
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of bathrooms
+    2)number of bedrooms
+    3)year built
+    4)architecture type
+    5)zip code
 3 things it can do:
-    1)
-    2)
-    3)
+    1)heat up
+    2)shut off water
+    3)turn on gas
  */
 
 /*
-Thing 3)
+Thing 3) Calculator
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)color of buttons
+    2)number of buttons
+    3)cost
+    4)battery level
+    5)amount of pixels on screen
 3 things it can do:
-    1)
-    2)
-    3)
+    1)add
+    2)subtract
+    3)take integral
  */
 
 /*
-Thing 4)
+Thing 4) Camera
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Max zoom 
+    2)type of lense
+    3)color
+    4)brand
+    5)year made
 3 things it can do:
-    1)
-    2)
-    3)
+    1)take photo
+    2)take video
+    3)change shutter speed
  */
 
 
