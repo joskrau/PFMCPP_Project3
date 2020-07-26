@@ -108,17 +108,17 @@ Thing 4) Camera
  */
 
 /*
-Thing 10)
+Thing 10) Plane
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Model of plane
+    2)number of passengers
+    3)current fuel level
+    4)maximum thrust
+    5)current weight
 3 things it can do:
-    1)
-    2)
-    3)
+    1)turn on seatbelt sign
+    2)Turn on engines
+    3)adjust wing flaps
  */
 
 /*
