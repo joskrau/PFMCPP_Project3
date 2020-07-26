@@ -110,11 +110,11 @@ Thing 4) Camera
 /*
 Thing 10) Plane
 5 properties:
-    1)Model of plane
-    2)number of passengers
-    3)current fuel level
-    4)maximum thrust
-    5)current weight
+    1)Wing
+    2)Passenger Interior
+    3)Cargo Hold
+    4)Cockpit
+    5)Tail
 3 things it can do:
     1)turn on seatbelt sign
     2)Turn on engines
