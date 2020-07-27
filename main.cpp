@@ -124,73 +124,73 @@ Thing 4) Camera
  */
 
 /*
-Thing 5)
+Thing 5) Wing
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Weight
+    2)Length
+    3)Number of engines on wing
+    4)strength of wing
+    5)Number of brake flaps
 3 things it can do:
-    1)
-    2)
-    3)
+    1)Turn on brake flaps
+    2)turn
+    3)turn off engines
  */
 
 /*
-Thing 6)
+Thing 6)cockpit
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)number of pilot seats
+    2)number of buttons
+    3)autopilot status
+    4)landing gear status
+    5)Size
 3 things it can do:
-    1)
-    2)
-    3)
+    1)Make announcment to passengers
+    2)Turn Wings
+    3)Turn on seatbelt sign
  */
 
 /*
-Thing 7)
+Thing 7) passenger interior
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Amount of flight attendants
+    2)Amount of food preperation stations
+    3)amount of bathrooms
+    4)amount of passengers
+    5)colume of overhead storage
 3 things it can do:
-    1)
-    2)
-    3)
+    1)prepare coffee
+    2)prepare cabin for landing
+    3)serve snacks
  */
 
 /*
-Thing 8)
+Thing 8) Cargo Hold
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Amount of bags in hold
+    2)Weight of bags in hold
+    3)Amount of fuel in reserve
+    4)Hold pressurization status
+    5)Volume of hold
 3 things it can do:
-    1)
-    2)
-    3)
+    1)Pressurize
+    2)Dump extra fuel
+    3)Move bag from hold to passenger area
  */
 
 /*
-Thing 9)
+Thing 9)Tail
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Height
+    2)Width
+    3)Length
+    4)Angle
+    5)strength of elevator
 3 things it can do:
-    1)
-    2)
-    3)
+    1)move Rudder
+    2)move horizontal stabilizer
+    3)move trim tabs
  */
 
 /*
@@ -202,7 +202,7 @@ Thing 10) Plane
     4)Cockpit
     5)Tail
 3 things it can do:
-    1)turn on seatbelt sign
+    1)turn on autopilot
     2)Turn on engines
     3)adjust wing flaps
  */
